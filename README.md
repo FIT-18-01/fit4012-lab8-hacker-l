@@ -15,7 +15,7 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Team members
 
-- **Thành viên 1**: TODO_MEMBER_1 - MSSV: TODO_MEMBER_1_ID
+- **Thành viên 1**: Trần Duy Tuấn - MSSV: 1876102004
 - **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
 
 ## Task division
