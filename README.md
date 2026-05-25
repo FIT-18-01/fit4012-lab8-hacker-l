@@ -16,19 +16,19 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 ## Team members
 
 - **Thành viên 1**: Trần Duy Tuấn - MSSV: 1876102004
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 2**: Nguyễn Vân Đạt - MSSV: 1871020131
 
 ## Task division
 
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
+- **Thành viên 1 phụ trách chính**: Trần DUy Tuấn receiver
+- **Thành viên 2 phụ trách chính**: Nguyễn Vân Đạt sender
+- **Phần làm chung**: báo cáo
 
 ## Demo roles
 
-- **Demo Sender / mã hóa / log gửi**: TODO_DEMO_ROLE_1
-- **Demo Receiver / giải mã / kiểm tra hash**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: TODO_DEMO_ROLE_SHARED
+- **Demo Sender / mã hóa / log gửi**: Nguyễn Vân đạt
+- **Demo Receiver / giải mã / kiểm tra hash**: Trần DUy Tuấn
+- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: cả 2
 
 ---
 
@@ -232,7 +232,7 @@ CI sẽ kiểm tra:
 - Có test ciphertext bị can thiệp.
 - Có test socket helper local.
 - README có thông tin nhóm 2 người.
-- Các file báo cáo không còn `TODO_STUDENT`.
+- Các file báo cáo không còn placeholder.
 - Có thư mục `logs/` để nộp minh chứng chạy demo.
 
 ---
